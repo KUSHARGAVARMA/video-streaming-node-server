@@ -1,0 +1,11 @@
+{
+  "name": "video-streaming-node-server",
+  "version": "1.0.0",
+  "description": "this is a project to explore streams and all other fundamental concepts of backend ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "batman",
+  "license": "MIT"
+}
